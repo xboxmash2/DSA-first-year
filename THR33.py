@@ -1,6 +1,8 @@
+# FIRST MAXIMUM AND SECOND MAXIMUM
+import math
 arr= [12,7,8,9,12,45,67]
-m=0
-n=0
+m=-math.inf
+n=-math.inf
 for i in arr:
     if i>m:
         n=m
