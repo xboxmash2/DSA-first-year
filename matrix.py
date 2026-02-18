@@ -29,7 +29,7 @@ for i in range(len(matrix[0])): #diagonal right to left SECONDARY
 print("\n")
 
 for i in matrix:
-    print(sum(i))
+    print("ROW SUM =",sum(i))
 
 #diagonal SUM PRIMARY
 sum=0

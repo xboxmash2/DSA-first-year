@@ -30,7 +30,7 @@ print(matrix)
 #     for j in range(cols):
 #         arr.append(matrix[j][i])
 #     matrics.append(arr)
-# print("TRANSPOSE")
+print("TRANSPOSE")
 # print(matrics)
 
 for i in range(rows):
